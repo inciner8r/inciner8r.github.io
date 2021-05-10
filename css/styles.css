@@ -148,6 +148,9 @@ body {
 .linkedin {
   background-color: rgb(0, 114, 177);
 }
+.discord {
+  background-color: #738adb;
+}
 .icon {
   display: inline-block;
   position: relative;
